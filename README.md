@@ -56,12 +56,12 @@ I learned to design and code such a big application. I improved my Redux skills;
 
 #### Known Bugs
 
-1. In the mobile version of the website, when the user clicks to navigate to the details of an invoice, the dashboard with buttons appears later than other components, and it has a "clunky" animation. **This is mostly framer motion's library bug as it fails to animate position fixed property**properly
-2. Jumpy animation sometimes occurs when the filter is changed from one to another.
+1. In the mobile version of the website, when the user clicks to navigate to the details of an invoice, the dashboard with buttons appears later than other components, and it has a "clunky" animation. **This is mostly framer motion's library bug as it fails to animate position fixed property** properly
+2. Jumpy animation sometimes occurs in invoice cards when the filter is changed from one to another.
 
 ### Conclusion
 
-Overall, it was great project to design/code. I learned a lot and will be glad if you will benefit from my source code or propose some changes. If you will have any questions, please feel free to contact me via email **aliyevnihats@outlook.com**.
+Overall, it was a great project to design/code. I learned a lot and will be glad if my source code will help you in any way. If you have any questions, please feel free to contact me via email **aliyevnihats@outlook.com**.
 
 **_Happy Coding_!**
 
